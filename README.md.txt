@@ -1,1 +1,1 @@
-New App
+New App - For Hosting
